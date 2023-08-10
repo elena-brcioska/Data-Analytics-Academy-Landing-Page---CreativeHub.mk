@@ -1,4 +1,4 @@
-![image](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk/assets/110688561/9150a774-9908-43eb-9935-d0e0aa5c81d9)![image](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk/assets/110688561/08297048-d771-4c6b-bb3f-55be937ca9de)<h1>Landing Page for Data Analytics Academy @ CreativeHub - Educational Company</h1>
+<h1>Landing Page for Data Analytics Academy @ CreativeHub - Educational Company</h1>
 
 
 <h2>Description</h2>
@@ -83,7 +83,7 @@ The page also contains a calculator for ROI, that allows the user to calculate h
 <p align="center">
 The diploma section, and the Learning Advisor section: <br/>
 <img src="https://i.ibb.co/3Ns6xwY/10.png" height="80%" width="80%" alt="Diploma"/>
-<img src="https://i.ibb.co/JBZ9vpV/footer.png" height="80%" width="80%" alt="Learning Advisor"/>
+<img src="https://i.ibb.co/rG320Yq/11.png" height="80%" width="80%" alt="Learning Advisor"/>
 <br />
 <br />
 </p>
@@ -92,7 +92,7 @@ The diploma section, and the Learning Advisor section: <br/>
 The page ends with a fully functional registration form, and the footer section:
 <br/>
 <img src="https://i.ibb.co/3zjKLjT/register.png" height="80%" width="80%" alt="Register"/>
-<img src="https://i.ibb.co/RY1yz3C/roi.png" height="80%" width="80%" alt="Calculator"/>
+<img src="https://i.ibb.co/JBZ9vpV/footer.png" height="80%" width="80%" alt="Learning Advisor"/>
 <br />
 <br />
 </p>
