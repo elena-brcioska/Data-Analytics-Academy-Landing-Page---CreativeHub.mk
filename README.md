@@ -1,4 +1,4 @@
-<h1>Landing Page for Data Analytics Academy @ CreativeHub - Educational Company</h1>
+![image](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk/assets/110688561/9150a774-9908-43eb-9935-d0e0aa5c81d9)![image](https://github.com/elena-brcioska/Data-Analytics-Academy-Landing-Page---CreativeHub.mk/assets/110688561/08297048-d771-4c6b-bb3f-55be937ca9de)<h1>Landing Page for Data Analytics Academy @ CreativeHub - Educational Company</h1>
 
 
 <h2>Description</h2>
@@ -22,50 +22,80 @@ The webpage is made responsive for all viewports
 
 <p align="center">
 This is the hero section - featuring the name of the academy, a description, a photo of the students and a button that scrolls to the register form: <br/>
-<img src="https://i.ibb.co/KXf2Hp1/01-min.gif" height="80%" width="80%" alt="Home Page"/>
+<img src="https://i.ibb.co/ss4bFsx/01.png" height="80%" width="80%" alt="Home Page"/>
 
 <br />
 <br />
-An infographic representing the careers you could pursue after graduating from this academy:  <br/>
-<img src="https://i.ibb.co/PxJ5jLf/03.png" width="80%" alt="Career Paths"/>
-<br />
-<br />
-A testimonial carousel section: <br/>
-<img src="https://i.ibb.co/HDLzHmt/login.png" height="80%" width="80%" alt="Log in"/>
-<br />
-<br />
-Success Formula section with animations on hover: <br/>
-<img src="https://i.ibb.co/fSMyJNr/05-min.gif" height="80%" width="80%" alt="Log in"/>
-<br />
-<br />
-The Curriculum section - where you can see all the modules that are taught on this academy:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Modules"/>
-<br />
-<br />
-</p>
 </p>
 
-The page also has a section where you can learn about the preactical projects that are made on this academy, as well as who the lecturers are, and the pricing:  <br/>
-<img src="https://i.ibb.co/YPC83H0/07-min.gif" height="80%" width="80%" alt="Landing Page"/>
+<p align="center">
+The success formula section, with hover animations: <br/>
+<img src="https://i.ibb.co/QHmvtW4/sf.png" height="80%" width="80%" alt="Success Formula"/>
 <br />
 <br />
-</p>
 </p>
 
-The page also contains a calculator for ROI, that allows the user to calculate how much months would it take to return the investment on the academy:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Calculator"/>
+<p align="center">
+The Academy Curriculum. Each module card is revealed on scroll, and expands on click using vanilla javascript: <br/>
+<img src="https://i.ibb.co/kJyQmbP/modules.png" height="80%" width="80%" alt="Modules"/>
 <br />
 <br />
-</p>
 </p>
 
-The page ends with a fully functional registration form, and the footer section:  <br/>
-<img src="https://i.ibb.co/TRq23mq/09-min.gif" height="80%" width="80%" alt="Register"/>
+<p align="center">
+The experts section, that shows the lecturers that will be teaching the academy. The lecturers section is animated on scroll, using the AOS library, and on click leads to each of the experts' LinkedIn profile: <br/>
+<img src="https://i.ibb.co/fGH0hSk/experts.png" height="80%" width="80%" alt="Experts"/>
 <br />
 <br />
-</p>
 </p>
 
+<p align="center">
+ The Hiring Program section. The table is animated using the AOS library on scroll, and the content is revealed:
+ <br/>
+<img src="https://i.ibb.co/z4JCP3J/hire.png" height="80%" width="80%" alt="Hire me"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+ The Top Alumni students carosel section, made usimg the GlideJs library:
+ <br/>
+<img src="https://i.ibb.co/bK73qG7/alumni.png" height="80%" width="80%" alt="Alumni"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+The pricing section, with two pricing cards. Each pricing card contains a button that leads to the Registration Form, and another one allowing the visitor to book a Calendly call with one of the Mentors on the Academy: <br/>
+<img src="https://i.ibb.co/xsz0vxp/07.png" height="80%" width="80%" alt="Pricing"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+The page also contains a calculator for ROI, that allows the user to calculate how much months would it take to return the investment on the academy:
+<br/>
+<img src="https://i.ibb.co/RY1yz3C/roi.png" height="80%" width="80%" alt="Calculator"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+The diploma section, and the Learning Advisor section: <br/>
+<img src="https://i.ibb.co/3Ns6xwY/10.png" height="80%" width="80%" alt="Diploma"/>
+<img src="https://i.ibb.co/JBZ9vpV/footer.png" height="80%" width="80%" alt="Learning Advisor"/>
+<br />
+<br />
+</p>
+
+<p align="center">
+The page ends with a fully functional registration form, and the footer section:
+<br/>
+<img src="https://i.ibb.co/3zjKLjT/register.png" height="80%" width="80%" alt="Register"/>
+<img src="https://i.ibb.co/RY1yz3C/roi.png" height="80%" width="80%" alt="Calculator"/>
+<br />
+<br />
+</p>
 
 <!--
  ```diff
